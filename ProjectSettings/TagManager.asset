@@ -11,13 +11,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Unit
+  - SKill
+  - DropItem
   - 
   - 
   - 
@@ -40,4 +36,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Unit
+    uniqueID: 1532191215
+    locked: 0
+  - name: VFX
+    uniqueID: 2534261509
+    locked: 0
+  - name: FLOATING
+    uniqueID: 760727195
+    locked: 0
+  - name: UI
+    uniqueID: 1404622377
+    locked: 0
+  - name: SYSTEM
+    uniqueID: 2319297313
     locked: 0
