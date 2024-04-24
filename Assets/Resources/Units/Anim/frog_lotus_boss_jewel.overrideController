@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: frog_lotus_boss_jewel
+  m_Controller: {fileID: 9100000, guid: a85bebe9a0717d742a731d4f18d6735f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 13561a37d77ce8b44bf32ea33fb2448f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e42deea2d9dedfa4791c5ac7a4142370, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 03f746325be09224d9b424963e617244, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 89ff8360b728e0d4b93dec64b95a62d1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 16c9dac19ea8a044f96ff7b90581073f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dce9af048ddee8e46bf6a9663c316577, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 73be53c4cf8746a48bebb2b0b744cf84, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 234149e739d511443ba48452fadae815, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b4991ad4da2201f4a929aa6921733e1e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b4991ad4da2201f4a929aa6921733e1e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: af4578959b79a0642aeb4dedb061b664, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: af4578959b79a0642aeb4dedb061b664, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 92cbcd8d86ee57043b657987a006a9c2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a1ba7c64036a5e5499132d0d652115f8, type: 2}

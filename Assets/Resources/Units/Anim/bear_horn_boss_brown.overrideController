@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: bear_horn_boss_brown
+  m_Controller: {fileID: 9100000, guid: a85bebe9a0717d742a731d4f18d6735f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 13561a37d77ce8b44bf32ea33fb2448f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 20e66c59b64899e49ab1aeb12c9fef2c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 03f746325be09224d9b424963e617244, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 943df826e09413e438eb352686d07df1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 16c9dac19ea8a044f96ff7b90581073f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 264c185e37cfeef4c9733bafe9456924, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 73be53c4cf8746a48bebb2b0b744cf84, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 41df5deafdc614f4c9d5f57a87e97ce6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b4991ad4da2201f4a929aa6921733e1e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b4991ad4da2201f4a929aa6921733e1e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: af4578959b79a0642aeb4dedb061b664, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: af4578959b79a0642aeb4dedb061b664, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 92cbcd8d86ee57043b657987a006a9c2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8b1ad93ba33dde2439f2f75d6b05e0b1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ff1dac1f567c92041b54136ef6163f1a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7d1d6de4c2df49e47bd0df4c35b4e672, type: 2}
